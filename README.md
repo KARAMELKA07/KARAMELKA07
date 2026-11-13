@@ -1,75 +1,91 @@
-# Привет! Я Карина 👋
 
-### Junior Frontend Developer из Москвы
+# Привет! Я Карина Закирова 👋
 
-Разрабатываю веб-интерфейсы на React и JavaScript. Работаю с компонентной архитектурой, адаптивной вёрсткой, REST API, авторизацией, формами и загрузкой файлов.
+**Full-stack разработка · Machine Learning & Computer Vision**
 
-В проектах также использовала Python, Flask, Node.js, Express, MySQL и MongoDB. Ищу стажировку или позицию Junior Frontend Developer.
+Я разработчик из Москвы. Создаю веб-приложения на **React и Python**, работаю с **REST API, базами данных, интеграцией ML-моделей и обработкой изображений**. У меня есть коммерческий опыт frontend-разработки AI-сервиса и опыт самостоятельной разработки full-stack проекта — от интерфейса и серверной логики до обучения модели и тестирования.
 
-## Основной стек
+Сейчас учусь в магистратуре РТУ МИРЭА по профилю **«Искусственный интеллект и машинное обучение для решения прикладных задач»**.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-</p>
+📍 Москва · 🎯 Открыта к стажировкам и Junior-позициям в разработке и AI/ML
 
-**Frontend:** React, JavaScript, React Router, React Hooks, Context API, HTML5, CSS3, Vite, Fetch API, REST API, JWT, FormData.
+## 🛠 Технологии
 
-**Дополнительный опыт:** Python, Flask, Node.js, Express, MySQL, MongoDB, Mongoose, EJS.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-303030?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Избранные проекты
+- **Frontend:** React, JavaScript, React Router, React Hooks, Context API, HTML5, CSS3, адаптивная вёрстка, Vite, Fetch API, FormData.
+- **Backend и API:** Python, Flask, SQLAlchemy, Flask-Migrate, JWT, REST API, HTTP, JSON; Node.js, Express, EJS. Также работала с FastAPI.
+- **Базы данных:** MySQL, SQL, MongoDB, Mongoose.
+- **ML / Computer Vision:** PyTorch, torchvision, EfficientNet-B0, transfer learning, классификация изображений, inference, Pillow, rembg, ONNX Runtime.
+- **Анализ данных (в том числе учебные проекты):** NumPy, pandas, scikit-learn, Matplotlib, регрессия, кластеризация, деревья решений, анализ временных рядов (ARIMA/SARIMA).
+- **Инструменты:** Git/GitHub, Docker, unittest, pytest, Jupyter, Google Colab, S3, Figma, Chrome DevTools.
+- **AI-инструменты в разработке:** ChatGPT, Codex, Cursor, Claude, Gemini.
 
-### Smart Wardrobe AI
+## 🚀 Избранные проекты
 
-Веб-сервис цифрового гардероба с распознаванием одежды по фотографии и интеллектуальным подбором образов.
+### [Smart Wardrobe AI](https://github.com/KARAMELKA07/smart-wardrobe-ai) · Full-stack + ML
 
-В проекте реализованы React-интерфейс, маршрутизация, JWT-авторизация, загрузка изображений, взаимодействие с REST API, backend на Flask, база данных MySQL и обработка изображений.
+**Дипломный проект.** Веб-сервис цифрового гардероба с распознаванием одежды по фотографии и подбором образов с учётом погоды, события и предпочтений.
 
-**Стек:** React, JavaScript, Vite, React Router, Flask, MySQL, JWT, Computer Vision.
+- Самостоятельно разработала **React-интерфейс и Flask backend**, REST API, JWT-авторизацию и работу с MySQL.
+- Дообучала **EfficientNet-B0** на данных об одежде и интегрировала распознавание в приложение; реализовала обработку изображений и удаление фона.
+- Получила **accuracy 91,48%** в отдельном валидационном эксперименте на Fashion Product Images (33 класса, 6 083 изображения).
+- Реализовала **rule-based рекомендательный алгоритм** с учётом стиля, цвета, погоды, события и предпочтений; добавила тесты для ML-компонентов и рекомендаций.
 
-[Открыть репозиторий](https://github.com/KARAMELKA07/smart-wardrobe-ai)
+**Стек:** React, JavaScript, Python, Flask, MySQL, SQLAlchemy, PyTorch, ONNX Runtime, REST API.
 
----
-
-### New-Polynom Event Site
-
-Адаптивный интерактивный React-сайт для программы спектакля: карта персонажей, модальные карточки, опросы и управление с мобильных устройств.
-
-Реализованы перемещение и масштабирование карты, Pointer Events, touch-жесты, pinch-to-zoom, адаптация под размер экрана и оптимизация изображений.
-
-**Стек:** React, JavaScript, Vite, HTML5, CSS3, React Hooks, Touch Events.
-
-[Открыть репозиторий](https://github.com/KARAMELKA07/new-polynom-event-site)
-
----
-
-### Electronic Pass Management System
+### [Electronic Pass Management System](https://github.com/KARAMELKA07/electronic-pass-management-system) · Backend
 
 Учебное веб-приложение для управления пользователями, электронными пропусками и журналом событий доступа.
 
-В проекте реализованы CRUD-операции, связанные модели данных, фильтрация событий, проверка срока действия пропусков и формирование отчётов.
+- Разработала серверную логику и CRUD-операции на Node.js и Express.
+- Реализовала модели и связи данных в MongoDB, проверку срока действия пропусков, фильтрацию событий и формирование отчётов.
 
 **Стек:** Node.js, Express, MongoDB, Mongoose, EJS, JavaScript.
 
-[Открыть репозиторий](https://github.com/KARAMELKA07/project-directory)
+### [New-Polynom Event Site](https://github.com/KARAMELKA07/new-polynom-event-site) · Frontend
 
-## Образование
+Адаптивный интерактивный сайт для спектакля с картой персонажей, карточками героев и опросами.
 
-**РТУ МИРЭА — Российский технологический университет, Москва**  
-**Бакалавриат, 2022–2026**
-09.03.02 «Информационные системы и технологии»  
-Профиль: «Технологии визуального программирования»  
-Диплом с отличием
+- Реализовала перемещение и масштабирование карты, поддержку мыши и touch-жестов, включая pinch-to-zoom.
+- Разработала адаптивный интерфейс, модальные окна, навигацию и оптимизацию изображений.
 
-**Профессиональная переподготовка, 2023–2024**
-«Программные средства решения прикладных задач искусственного интеллекта»  
-Квалификация: программист
+**Стек:** React, JavaScript, Vite, HTML5, CSS3, Pointer Events.
 
-## Контакты
+### [Vintoria](https://vintoria.ru/) · Frontend
 
-- Email: [zakirovakarina2005@yandex.ru](mailto:zakirovakarina2005@yandex.ruL)
-- Telegram: [@KaramelkaKa07](https://t.me/KaramelkaKa07)
+Участие в разработке веб-приложения для поиска вин, распознавания этикеток и ведения личной коллекции.
+
+- Разрабатывала адаптивные страницы каталога, карточек, избранного и коллекции.
+- Интегрировала REST API, обработку ошибок и состояний интерфейса.
+
+**Стек:** React, JavaScript, HTML5, CSS3, REST API.
+
+## 💼 Опыт
+
+**ООО «АГРОЛОДЖИК» — младший frontend-разработчик** · июль 2024 — сентябрь 2025
+
+Работала над AI-сервисом распознавания заболеваний растений по видео: реализовала загрузку и просмотр видео, отображение результатов обработки, историю запусков и интеграцию с REST API и S3.
+
+**ООО «Русстел Инновации» — разработчик (практика)** · февраль — июнь 2026
+
+Full-stack разработка в рамках производственной и преддипломной практики: React-интерфейсы, Python/Flask, REST API, валидация, работа с базой данных и интеграция AI-функций.
+
+## 🎓 Образование
+
+**РТУ МИРЭА — Российский технологический университет**
+
+- **Магистратура, с 2026 года:** «Фундаментальная информатика и информационные технологии», профиль «Искусственный интеллект и машинное обучение для решения прикладных задач».
+- **Бакалавриат, 2022–2026:** «Информационные системы и технологии», **диплом с отличием**.
+- **Профессиональная переподготовка, 2023–2024:** «Программные средства решения прикладных задач искусственного интеллекта», 360 академических часов.
+
+## 📫 Контакты
+
+- **Email:** [zakirovakarina2005@yandex.ru](mailto:zakirovakarina2005@yandex.ru)
+- **Telegram:** [@KaramelkaKa07](https://t.me/KaramelkaKa07)
