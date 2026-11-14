@@ -1,7 +1,7 @@
 
 # Привет! Я Карина Закирова 👋
 
-**Full-stack разработка · Machine Learning & Computer Vision**
+**Full-stack разработка · Data Science · Machine Learning**
 
 Я разработчик из Москвы. Создаю веб-приложения на **React и Python**, работаю с **REST API, базами данных, интеграцией ML-моделей и обработкой изображений**. У меня есть коммерческий опыт frontend-разработки AI-сервиса и опыт самостоятельной разработки full-stack проекта — от интерфейса и серверной логики до обучения модели и тестирования.
 
@@ -39,6 +39,20 @@
 - Реализовала **rule-based рекомендательный алгоритм** с учётом стиля, цвета, погоды, события и предпочтений; добавила тесты для ML-компонентов и рекомендаций.
 
 **Стек:** React, JavaScript, Python, Flask, MySQL, SQLAlchemy, PyTorch, ONNX Runtime, REST API.
+
+### [Data Science Portfolio](https://github.com/KARAMELKA07/data-science-portfolio) · Data Science / Classical ML
+
+Коллекция учебных проектов по анализу данных, машинному обучению и математическому моделированию на Python. Работы выполнены в рамках обучения в магистратуре РТУ МИРЭА.
+
+- **Классификация:** логистическая регрессия, подготовка данных, кросс-валидация, оценка Accuracy, F1-score и ROC-AUC.
+- **Регрессия:** прогнозирование стоимости недвижимости, создание признаков, Ridge, Lasso, подбор гиперпараметров через GridSearchCV.
+- **Временные ряды:** анализ трендов и сезонности, ACF/PACF, ARIMA, SARIMA, сравнение прогнозов.
+- **Кластеризация:** KMeans, DBSCAN, Agglomerative Clustering, оценка качества и сравнение алгоритмов.
+- **Поддержка принятия решений:** метод анализа иерархий (AHP), когнитивные карты и моделирование бизнес-сценариев.
+
+**Стек:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SciPy, statsmodels, Jupyter Notebook.
+
+📂 **[Посмотреть практические работы](https://github.com/KARAMELKA07/data-science-portfolio)**
 
 ### [Electronic Pass Management System](https://github.com/KARAMELKA07/electronic-pass-management-system) · Backend
 
